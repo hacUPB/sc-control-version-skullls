@@ -8,7 +8,7 @@ clone el repositorio, edite el fact, lo subi sin leer el resto y ahora estoy suf
 
 ![image](https://github.com/hacUPB/sc-control-version-skullls/assets/157409179/553c5c7b-ced7-4296-95df-655effb2b271)
 
-([kratos]https://www.youtube.com/watch?v=ethgO3D_TMg&t=427s)
+[kratos](https://www.youtube.com/watch?v=ethgO3D_TMg&t=427s)
 
 gh repo clone
 
